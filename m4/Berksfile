@@ -1,0 +1,7 @@
+source "https://supermarket.chef.io"
+
+
+cookbook 'java', '~> 1.31.0'
+cookbook 'playframework', '~> 0.1.0'
+
+metadata
